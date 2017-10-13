@@ -1,0 +1,12 @@
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\obj\Debug\KonzolnaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\bin\Debug\ClassLibrary1.dll
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\bin\Debug\ClassLibrary1.pdb
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\obj\Debug\KonzolnaAplikacija.csprojResolveAssemblyReference.cache
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\bin\Debug\NodaTime.dll
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\bin\Debug\NodaTime.pdb
+C:\Users\Kristijan\source\repos\RaupjcHw0\ConsoleApplication\bin\Debug\NodaTime.xml
